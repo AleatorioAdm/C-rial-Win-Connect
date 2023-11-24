@@ -1,0 +1,6 @@
+C-rial Win Connect CHANGELOG
+
+Version v0.6.1 (BETATEST):
+-Added Arduino code to be visible by C-rial Win Connect
+-Added re-scan function
+-Added led test function (with feedback)
